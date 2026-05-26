@@ -47,7 +47,7 @@ and I'm currently open to remote Data Analyst roles.
 |---|---|---|
 | **Data Analyst Training** | Tech Studio Academy (TS Academy) | 2024/2025 |
 | **Virtual Assistant Certification** | ALX Africa | 2024 |
-| **HIPAA Privacy & Security** | 2023 |
+| **HIPAA Privacy & Security** | - | | 2023|
 | **B.Sc. Statistics** | University | 2023 |
 
 ---
