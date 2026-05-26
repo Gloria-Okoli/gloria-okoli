@@ -82,9 +82,9 @@ and I'm currently open to remote Data Analyst roles.
 
 ## 📊 GitHub Stats
 
-![Gloria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Riah296&show_icons=true&theme=default&hide_border=true)
+![Gloria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gloria-Okoli&show_icons=true&theme=default&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Riah296&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gloria-Okoli&layout=compact&hide_border=true)
 
 ---
 
