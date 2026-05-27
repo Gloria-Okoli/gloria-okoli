@@ -65,7 +65,7 @@ and I'm currently open to remote Data Analyst roles.
 ### 📘 Power BI Projects
 - 📈 **[Customer Service Dashboard](#)** — Interactive dashboard tracking
   call volume, resolution rates, and agent performance
-- 🛒 **[Sales & Revenue Report](#)** — Drill-through Power BI report with
+- 🛒 **[Gadget Sales & Revenue Report](https://github.com/Gloria-Okoli/gadget-sales-revenue-report)**— Drill-through Power BI report with
   KPI cards and regional sales breakdowns
 - ⚙️ **[Operational KPI Dashboard](#)** — End-to-end business metrics
   dashboard with dynamic filters and real-time visuals
