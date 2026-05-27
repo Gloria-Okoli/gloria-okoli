@@ -55,7 +55,7 @@ and I'm currently open to remote Data Analyst roles.
 ## 📁 Featured Projects
 
 ### 📗 Excel Projects
-- 📊 **[Sales Performance Tracker](#)** — Pivot table analysis of regional
+- 📊 **[Sales Performance Tracker](https://github.com/Gloria-Okoli/sales-performance-tracker)** — Pivot table analysis of regional
   sales data with trend charts and conditional formatting
 - 📋 **[HR Attendance & Productivity Report](#)** — Automated attendance
   log with absenteeism and productivity calculations
