@@ -67,7 +67,7 @@ and I'm currently open to remote Data Analyst roles.
   call volume, resolution rates, and agent performance
 - 🛒 **[Gadget Sales & Revenue Report](https://github.com/Gloria-Okoli/gadget-sales-revenue-report)**— Drill-through Power BI report with
   KPI cards and regional sales breakdowns
-- ⚙️ **[Operational KPI Dashboard](#)** — End-to-end business metrics
+- ⚙️ **[Driver Performance Intelligence Dashboard](https://github.com/Gloria-Okoli/logistics-operations-analysis)** — End-to-end business metrics
   dashboard with dynamic filters and real-time visuals
 
 ### 📂 Operations & Reporting
